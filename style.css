@@ -1,0 +1,413 @@
+.header1 {
+  background-color: orange;
+  box-shadow: 5px 4px solid black;
+  border: 1px solid black;
+}
+.fname {
+  display: inline-block;
+  line-height: 30px;
+  font-size: 14x;
+  font-family: arial;
+  color: #1e1e1e;
+  padding: 0 5px;
+}
+.mname {
+  display: inline-block;
+  line-height: 30px;
+  font-size: 14x;
+  font-family: arial;
+  color: #1e1e1e;
+  padding: 0 260px;
+  margin-left: 10%;
+}
+.lname {
+  display: inline-block;
+  line-height: 30px;
+  font-size: 14x;
+  font-family: arial;
+  color: #1e1e1e;
+  position: absolute;
+
+  margin-left: 6%;
+}
+.fTname {
+  width: 20%;
+  padding: 15px;
+
+  display: inline-block;
+  border: 1px solid black;
+  background: #f1f1f1;
+  margin-left: 2px;
+}
+.mTname {
+  margin-left: 196px;
+  width: 20%;
+  padding: 15px;
+
+  display: inline-block;
+  border: 1px solid black;
+  background: #f1f1f1;
+}
+
+.lTname {
+  margin-left: 170px;
+  width: 20%;
+  padding: 15px;
+
+  display: inline-block;
+  border: 1px solid black;
+  background: #f1f1f1;
+}
+
+.cname {
+  display: inline-block;
+  line-height: 30px;
+  font-size: 14x;
+  font-family: arial;
+  color: #1e1e1e;
+  position: absolute;
+}
+.cTname {
+  width: 97%;
+  padding: 15px;
+
+  display: inline-block;
+  border: 1px solid black;
+  background: #f1f1f1;
+  margin-left: 2px;
+}
+
+.pname {
+  display: inline-block;
+  line-height: 30px;
+  font-size: 14x;
+  font-family: arial;
+  color: #1e1e1e;
+  position: absolute;
+}
+
+.pTname {
+  width: 28%;
+  padding: 15px;
+
+  display: inline-block;
+  border: 1px solid black;
+  background: #f1f1f1;
+  margin-left: 2px;
+}
+
+.rno {
+  display: inline-block;
+  line-height: 30px;
+  font-size: 14x;
+  font-family: arial;
+  color: #1e1e1e;
+  padding: 0 5px;
+  margin-left: 2px;
+}
+
+.dob {
+  display: inline-block;
+  line-height: 30px;
+  font-size: 14x;
+  font-family: arial;
+  color: #1e1e1e;
+  padding: 0 260px;
+  margin-left: 6%;
+}
+.pcno {
+  display: inline-block;
+  line-height: 30px;
+  font-size: 14x;
+  font-family: arial;
+  color: #1e1e1e;
+  position: absolute;
+
+  margin-left: 6%;
+}
+
+.pinno {
+  display: inline-block;
+  line-height: 30px;
+  font-size: 14x;
+  font-family: arial;
+  color: #1e1e1e;
+  padding: 0 5px;
+}
+.district {
+  display: inline-block;
+  line-height: 30px;
+  font-size: 14x;
+  font-family: arial;
+  color: #1e1e1e;
+  padding: 0 260px;
+  position: absolute;
+  margin-left: 9%;
+}
+.state {
+  display: inline-block;
+  line-height: 30px;
+  font-size: 14x;
+  font-family: arial;
+  color: #1e1e1e;
+  position: absolute;
+
+  margin-left: 55%;
+}
+.address {
+  display: inline-block;
+  line-height: 30px;
+  font-size: 14x;
+  font-family: arial;
+  color: #1e1e1e;
+  padding: 0 260px;
+  position: absolute;
+  margin-left: 11%;
+}
+.pancard {
+  margin-left: 2px;
+  margin-left: 0%;
+}
+
+.required {
+  color: red;
+}
+
+/*input[type="text"] {
+  width: 20%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: 1px solid black;
+  background: #f1f1f1;
+}*/
+.username {
+  width: 40%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: 1px solid black;
+  background: #f1f1f1;
+}
+
+input[type="password"] {
+  width: 40%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: 1px solid black;
+  background: #f1f1f1;
+}
+nav {
+  width: 100%;
+  height: 100px;
+  background-color: orange;
+  margin: 0px;
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+  line-height: 100px; /* defines amount of space above and below text*/
+}
+ul li a:hover {
+  color: red;
+}
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  font-size: 14x;
+  font-family: arial;
+  color: white;
+  padding: 0 20px;
+}
+.heading_SignUp {
+  width: 96%;
+  height: 160px;
+  background-color: #2f3537;
+  color: orange;
+  font-size: 30px;
+  text-align: left;
+  padding: 0 35px;
+  text-decoration: none;
+}
+.heading_SignUp,
+h1 {
+  margin-bottom: 23px;
+}
+.details {
+  margin-left: 100px;
+  width: 100%;
+  height: 100%;
+}
+
+#de {
+  display: inline-block;
+  line-height: 30px;
+  font-size: 14x;
+  font-family: arial;
+  color: #1e1e1e;
+  padding: 0 0px;
+}
+
+.btn-text {
+  background-color: #0b9959;
+  margin-top: -1190px;
+  height: 50px;
+  width: 150px;
+  color: white;
+  border-radius: 50px 50px;
+}
+.btn-text:hover {
+  background-color: green;
+}
+.btn-login {
+  background-color: coral;
+  height: 50px;
+  width: 150px;
+  color: white;
+  border-radius: 50px 50px;
+  margin-left: 350px;
+}
+
+.btn-login:hover {
+  background-color: black;
+}
+
+/* The sidebar menu */
+.sidenav {
+  height: 100vh; /* Full-height: remove this if you want "auto" height */
+  width: 300px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #111; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}
+
+/* The navigation menu links */
+.sidenav a {
+  padding: 6px 8px 6px 20px;
+  text-decoration: none;
+  font-size: 30px;
+  color: #818181;
+  display: block;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: #f1f1f1;
+  background-color: red;
+}
+
+/* Style page content */
+.main {
+  margin-left: 160px; /* Same as the width of the sidebar */
+  padding: 0px 10px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+  }
+  .sidenav a {
+    font-size: 18px;
+  }
+}
+.flexbox-container {
+  display: flex;
+
+  flex-flow: column wrap;
+  align-content: center;
+}
+.flexbox-item {
+  width: 79%;
+  margin: 10px;
+  border: 3px solid whitesmoke;
+  background-color: #dfdfdf;
+  align-items: right;
+  margin-left: 320px;
+}
+
+.flexbox-inner-item1 {
+  width: 79%;
+  margin: 10px;
+  border: 3px solid #333;
+  background-color: #dfdfdf;
+  align-items: right;
+  margin-left: 320px;
+}
+
+.flexbox-item1 {
+  min-height: 200px;
+}
+.flexbox-item2 {
+  min-height: 200px;
+}
+.flexbox-item3 {
+  min-height: 200px;
+}
+.flexbox-item4 {
+  min-height: 100px;
+  margin-left: 310px;
+  background-color: #98d2eb;
+}
+.flexbox-item5 {
+  min-height: 200px;
+  margin-left: 310px;
+}
+.flexbox-item6 {
+  min-height: 200px;
+  margin-left: 310px;
+}
+.flexbox-item7 {
+  min-height: 200px;
+  margin-left: 310px;
+}
+
+.flexbox-item8 {
+  min-height: 50px;
+  margin-left: 310px;
+}
+
+.sec_header {
+  background-color: white;
+
+  border: 1px solid whitesmoke;
+  width: 79%;
+  height: 30px;
+  margin-left: 310px;
+  box-shadow: 2px black;
+}
+
+.third_header {
+  background-color: white;
+
+  border: 1px solid whitesmoke;
+  width: 79%;
+  height: 30px;
+  margin-left: 310px;
+  box-shadow: 2px black;
+}
+
+.sec_header button {
+  margin-left: 57%;
+  position: absolute;
+  margin-bottom: 30px;
+  width: 99px;
+  border: 1px solid red;
+  background-color: red;
+  text-decoration: none;
+}
+.third_header button {
+  margin-left: 69%;
+  position: absolute;
+  margin-bottom: 30px;
+  border: 1px solid red;
+  background-color: whitesmoke;
+  text-decoration: none;
+}
